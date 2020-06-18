@@ -13,7 +13,7 @@
 	</parent>
 	<properties>
 		<com.microsoft.sqlserver.version>6.1.0.jre8</com.microsoft.sqlserver.version>
-		<com.fasterxml.jackson.core>2.9.7</com.fasterxml.jackson.core>
+		<com.fasterxml.jackson.core>2.10.0.pr1</com.fasterxml.jackson.core>
 	</properties>
 	<build>
 		<plugins>
